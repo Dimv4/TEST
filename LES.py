@@ -1,1 +1,1 @@
-print('Hello world class1')
+print('Hello world of tanks1')
